@@ -30,3 +30,35 @@
 [SQL.java](https://github.com/Divyasonawane/Online-Shopping-Cart-Database-Project/blob/main/SQL.java) is  the acutal program that we wrote to submit the sql execution to the database based on the sample above.
 
 [Java_GUI](https://github.com/Divyasonawane/Online-Shopping-Cart-Database-Project/blob/main/Java_GUI) contains the Java programs for creating the GUI.
+
+1. [MainFrame.java](): Provide main menu for user to choose different function.
+
+![image]()
+
+2. [Register.java](): User registration interface.
+
+![image]()
+
+3. [Login.java](): User log-in interface.
+
+![image]()
+
+4. [AddAddress.java](): Add address for delivery.
+
+![image]()
+
+5. [SearchFrame.java]():Search products in database.
+
+![image]()
+
+6. [SaveToCartFrame.java](): Add products into shopping cart.
+
+![image]()
+
+7. [SetUpOrderFrame.java](): View the shopping cart and create the order.
+
+![image]()
+
+8. [addressFrame.java](): Select a delivery address and finish the shopping.
+
+![image]()
