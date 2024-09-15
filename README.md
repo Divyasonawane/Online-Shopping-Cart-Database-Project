@@ -59,6 +59,6 @@
 
 ![image]()
 
-8. [addressFrame.java](): Select a delivery address and finish the shopping.
+8. [addressFrame.java](https://github.com/Divyasonawane/Online-Shopping-Cart-Database-Project/blob/main/Java_GUI/addressFrame.java): Select a delivery address and finish the shopping.
 
 ![image]()
