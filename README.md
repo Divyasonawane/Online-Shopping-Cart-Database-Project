@@ -28,3 +28,4 @@
 * [Modification.sql](https://github.com/Divyasonawane/Online-Shopping-Cart-Database-Project/blob/main/Modification.sql): Modify the data. 
 # Java GUI
 [SQL.java](https://github.com/Divyasonawane/Online-Shopping-Cart-Database-Project/blob/main/SQL.java) is  the acutal program that we wrote to submit the sql execution to the database based on the sample above.
+[Java_GUI](https://github.com/Divyasonawane/Online-Shopping-Cart-Database-Project/blob/main/Java_GUI) contains the Java programs for creating the GUI.
