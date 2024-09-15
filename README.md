@@ -22,4 +22,8 @@
 * Payment (__C.cardNumber__, __orderNumber__, payTime) (C.cardNumber ref Credit Card, orderNumber ref Order)
 
 # Create Database
+
+* [Table.sql]
+* [Insert.sql]
+* [Modification.sql]
 # Java GUI
