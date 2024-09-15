@@ -25,5 +25,5 @@
 
 * [Table.sql](https://github.com/Divyasonawane/Online-Shopping-Cart-Database-Project/blob/main/Table.sql):  Create tables for entities and relationships above.
 * [Insert.sql](https://github.com/Divyasonawane/Online-Shopping-Cart-Database-Project/blob/main/Insert.sql): Insert datas into tables.
-* [Modification.sql]
+* [Modification.sql](https://github.com/Divyasonawane/Online-Shopping-Cart-Database-Project/blob/main/Modification.sql): Modify the data. 
 # Java GUI
