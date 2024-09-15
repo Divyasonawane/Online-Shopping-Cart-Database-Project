@@ -23,7 +23,7 @@
 
 # Create Database
 
-* [Table.sql]
-* [Insert.sql]
+* [Table.sql](https://github.com/Divyasonawane/Online-Shopping-Cart-Database-Project/blob/main/Table.sql):  Create tables for entities and relationships above.
+* [Insert.sql](
 * [Modification.sql]
 # Java GUI
