@@ -269,7 +269,7 @@ insert into contain values
 (73919231,6,2),
 (83921201,7,5);
 
-INSERT INTO deliver_to VALUES
+insert into deliver_to values
 (39,87291231,'2017-02-17'),
 (1,12992012,'2015-6-10'),
 (7,76023921,'2015-10-04'),
